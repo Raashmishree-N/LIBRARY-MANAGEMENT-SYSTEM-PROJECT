@@ -1,11 +1,11 @@
 # LIBRARY-MANAGEMENT-SYSTEM-PROJECT
 
-ABSTRACT
+ABSTRACT:
 The Library Management System is a console-based application developed using the C programming language. This project is used to manage library operations such as adding books, updating records, searching books, issuing books, and returning books. The system uses linked lists and file handling to store and manage records efficiently.
 
 The project helps reduce manual work and provides a simple and user-friendly way to maintain library details. It also improves understanding of data structures, pointers, and file handling concepts in C.
 
-OBJECTIVES
+OBJECTIVES:
 * To maintain book records efficiently.
 * To reduce manual work in library management.
 * To implement linked list operations in C.
@@ -39,5 +39,5 @@ This function handles the return operation of issued books and updates the recor
 8.issued_books():
 This function displays all currently issued books and their details.
 
-CONCLUSION
+CONCLUSION:
 The Library Management System project is useful for managing library records in a simple and efficient manner. It demonstrates the practical use of linked lists, structures, pointers, and file handling in C programming. The project helps improve programming and problem-solving skills through real-time implementation.
